@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pankajsolanki51
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for frontend internship
 - 📫 Reach me out on ps4066367@gmail.com
 
 <!---
