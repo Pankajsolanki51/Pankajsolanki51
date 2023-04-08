@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student of engineering currently practicing front-end development, I<br>am looking for an internship.<br>#Engineer<br>#Tech
+A student of engineering currently practicing front-end development, <br>Developemnt Inter @Grapdes.com<br>#Engineer<br>#Tech<br>#Development
 
 
 ## 🌐 Socials:
