@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student of engineering currently practicing front-end development, <br>Developemnt Inter @Grapdes.com<br>#Engineer<br>#Tech<br>#Development
+A student of engineering currently practicing Data Analytics and front-end development,<br>#Engineer<br>#Tech<br>#Development
 
 
 ## 🌐 Socials:
