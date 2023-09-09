@@ -1,6 +1,6 @@
 <p align="center">
-  <img src= url('https://drive.google.com/file/d/1J5fTrqmKCD9ufhBngyBEcHpypcpXZIfV/view?usp=sharing') width="350" title="hover text">
-  
+  <img src= 'https://drive.google.com/file/d/1J5fTrqmKCD9ufhBngyBEcHpypcpXZIfV/view?usp=sharing' width="350">
+
 </p>
 
 # 💫 About Me:
