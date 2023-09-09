@@ -1,4 +1,4 @@
-![Screenshot](Web capture_9-9-2023_222222_www.codingninjas.com.jpeg)
+
 
 # 💫 About Me:
 A student of engineering currently practicing Data Analytics and front-end development,<br>#Engineer<br>#Tech<br>#Development
