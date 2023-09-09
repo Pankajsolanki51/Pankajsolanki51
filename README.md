@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= 'https://drive.google.com/file/d/1J5fTrqmKCD9ufhBngyBEcHpypcpXZIfV/view?usp=sharing' width="350">
+  <img src= ("C:\Users\user\Downloads\Web capture_9-9-2023_222222_www.codingninjas.com.jpeg") width="350">
 
 </p>
 
