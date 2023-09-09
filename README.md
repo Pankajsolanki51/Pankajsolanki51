@@ -1,5 +1,7 @@
-# Let's Dominate the League!
-![](https://drive.google.com/file/d/1J5fTrqmKCD9ufhBngyBEcHpypcpXZIfV/view?usp=sharing)
+<p align="center">
+  <img src= url('https://drive.google.com/file/d/1J5fTrqmKCD9ufhBngyBEcHpypcpXZIfV/view?usp=sharing') width="350" title="hover text">
+  
+</p>
 
 # 💫 About Me:
 A student of engineering currently practicing Data Analytics and front-end development,<br>#Engineer<br>#Tech<br>#Development
