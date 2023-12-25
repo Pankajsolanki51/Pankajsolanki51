@@ -4,7 +4,10 @@
 A student of engineering currently practicing Data Analytics and front-end development,<br>#Engineer<br>#Tech<br>#Development
 
 # 2K23 Recape
-![alt text]([http://url/to/img.png](https://certificate.codingninjas.com/certificate/3a0091ea825812a6/YearlyStats))
+<p align="center">
+  <img src="https://certificate.codingninjas.com/certificate/3a0091ea825812a6/YearlyStats" width="350" title="hover text">
+  
+</p>
 
 
 ## 🌐 Socials:
