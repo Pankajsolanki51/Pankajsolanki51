@@ -3,6 +3,9 @@
 # 💫 About Me:
 A student of engineering currently practicing Data Analytics and front-end development,<br>#Engineer<br>#Tech<br>#Development
 
+# 2K23 Recape
+![alt text]([http://url/to/img.png](https://certificate.codingninjas.com/certificate/3a0091ea825812a6/YearlyStats))
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pankajsolanki51) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj solanki) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pankaj Solanki ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20808773) 
